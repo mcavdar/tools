@@ -1,0 +1,20 @@
+# Jekyll configuration for GitHub Pages
+# Custom domain: tools.envai.tr
+
+title: Tools
+
+description: "Project site for tools.envai.tr"
+
+url: "https://tools.envai.tr"
+baseurl: ""
+
+# GitHub Pages compatible theme
+# You can change this to another supported theme (e.g., cayman, minima, slate)
+theme: minima
+
+# Build settings
+markdown: kramdown
+
+# Optional: generate an RSS feed
+plugins:
+  - jekyll-feed
